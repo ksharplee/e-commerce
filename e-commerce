@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T06:41:15.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="12-cOuWEsSaDWZrtrStR" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T06:52:25.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="mnwL3AuHAfiHK5scRe5X" version="14.6.6" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="-lVBv51lc_pYrbAOQcwW-29" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="-lVBv51lc_pYrbAOQcwW-28" vertex="1">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-lVBv51lc_pYrbAOQcwW-30" value="alias" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="-lVBv51lc_pYrbAOQcwW-28" vertex="1">
+        <mxCell id="-lVBv51lc_pYrbAOQcwW-30" value="alias(前台显示名称)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="-lVBv51lc_pYrbAOQcwW-28" vertex="1">
           <mxGeometry x="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-lVBv51lc_pYrbAOQcwW-31" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-lVBv51lc_pYrbAOQcwW-21" vertex="1">
